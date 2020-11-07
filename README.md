@@ -486,7 +486,7 @@ Chrome allows developers to test out their extensions to see if it works. Follow
   - Demo: https://chrome.google.com/webstore/detail/zoom-bookmarks/haplbihlmhnffbihdfjhgnickameiphd?hl=en
   - This is the live demo I mentioned at the start of this workshop. If you want the code for this, see this Github repo: https://github.com/shreyfirst/zoom_bookmarks
 
-  ![Zoom link closer](/Users/shrey/Library/Application Support/CleanShot/media/media_vxD7u85JQs/Screenshot taken by Shrey on 11-06-2020 at 18.11 (45)@2x.png)
+  ![Zoom link closer](https://cloud-fonvfiubt.vercel.app/0screenshot_taken_by_shrey_on_11-06-2020_at_18.11__54__2x.png)
 
   *This feature was inspired by this (existing) Chrome extension: https://chrome.google.com/webstore/detail/zoom-meetings-page-auto-c/edflihlonecjkejpbajecilgmopegldj?hl=en-US*
 
